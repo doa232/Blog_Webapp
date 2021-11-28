@@ -6,4 +6,4 @@ The webapp can register user and post content on the website. They can edit or d
 
 ![Screenshot 2021-11-28 141240](https://user-images.githubusercontent.com/68468203/143769436-272d0b5f-5d95-478c-9747-db59f44fe66f.jpg)
 ![Screenshot 2021-11-28 140940](https://user-images.githubusercontent.com/68468203/143769414-7c3a7070-f6b9-4f63-984a-a41a33445c60.jpg)
-![Uploading Screenshot 2021-11-28 141038.jpg…]()
+![Screenshot 2021-11-28 141038](https://user-images.githubusercontent.com/68468203/143769585-424e07f5-d71b-4342-a33a-dd4784295d31.jpg)
